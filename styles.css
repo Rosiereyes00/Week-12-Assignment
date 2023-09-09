@@ -1,0 +1,20 @@
+body {
+    background-color:#dcc1f2;
+
+    background-position: center;
+}
+
+h1, h2 {
+    font-weight: 600;
+    font-family: cursive;
+}
+
+#bodyOfList {
+    padding-top: 1vh;
+    border-bottom: 2px solid rgb(30, 135, 7);
+}
+
+
+item {
+    color: blueviolet;
+} 
